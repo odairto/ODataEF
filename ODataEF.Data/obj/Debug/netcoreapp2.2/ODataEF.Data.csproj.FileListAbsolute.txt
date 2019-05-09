@@ -1,0 +1,11 @@
+F:\ODataEF\ODataEF.Data\obj\Debug\netcoreapp2.2\ODataEF.Data.csprojAssemblyReference.cache
+F:\ODataEF\ODataEF.Data\obj\Debug\netcoreapp2.2\ODataEF.Data.csproj.CoreCompileInputs.cache
+F:\ODataEF\ODataEF.Data\obj\Debug\netcoreapp2.2\ODataEF.Data.AssemblyInfoInputs.cache
+F:\ODataEF\ODataEF.Data\obj\Debug\netcoreapp2.2\ODataEF.Data.AssemblyInfo.cs
+F:\ODataEF\ODataEF.Data\bin\Debug\netcoreapp2.2\ODataEF.Data.deps.json
+F:\ODataEF\ODataEF.Data\bin\Debug\netcoreapp2.2\ODataEF.Data.dll
+F:\ODataEF\ODataEF.Data\bin\Debug\netcoreapp2.2\ODataEF.Data.pdb
+F:\ODataEF\ODataEF.Data\obj\Debug\netcoreapp2.2\ODataEF.Data.dll
+F:\ODataEF\ODataEF.Data\obj\Debug\netcoreapp2.2\ODataEF.Data.pdb
+F:\ODataEF\ODataEF.Data\bin\Debug\netcoreapp2.2\ODataEF.Data.runtimeconfig.json
+F:\ODataEF\ODataEF.Data\bin\Debug\netcoreapp2.2\ODataEF.Data.runtimeconfig.dev.json

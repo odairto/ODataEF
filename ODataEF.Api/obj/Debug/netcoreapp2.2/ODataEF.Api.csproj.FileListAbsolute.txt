@@ -1,0 +1,17 @@
+F:\ODataEF\ODataEF.Api\bin\Debug\netcoreapp2.2\ODataEF.Api.deps.json
+F:\ODataEF\ODataEF.Api\bin\Debug\netcoreapp2.2\ODataEF.Api.runtimeconfig.json
+F:\ODataEF\ODataEF.Api\bin\Debug\netcoreapp2.2\ODataEF.Api.runtimeconfig.dev.json
+F:\ODataEF\ODataEF.Api\bin\Debug\netcoreapp2.2\ODataEF.Api.dll
+F:\ODataEF\ODataEF.Api\bin\Debug\netcoreapp2.2\ODataEF.Api.pdb
+F:\ODataEF\ODataEF.Api\obj\Debug\netcoreapp2.2\ODataEF.Api.csprojAssemblyReference.cache
+F:\ODataEF\ODataEF.Api\obj\Debug\netcoreapp2.2\ODataEF.Api.csproj.CoreCompileInputs.cache
+F:\ODataEF\ODataEF.Api\obj\Debug\netcoreapp2.2\ODataEF.Api.RazorAssemblyInfo.cache
+F:\ODataEF\ODataEF.Api\obj\Debug\netcoreapp2.2\ODataEF.Api.RazorAssemblyInfo.cs
+F:\ODataEF\ODataEF.Api\obj\Debug\netcoreapp2.2\ODataEF.Api.AssemblyInfoInputs.cache
+F:\ODataEF\ODataEF.Api\obj\Debug\netcoreapp2.2\ODataEF.Api.AssemblyInfo.cs
+F:\ODataEF\ODataEF.Api\obj\Debug\netcoreapp2.2\ODataEF.Api.RazorTargetAssemblyInfo.cache
+F:\ODataEF\ODataEF.Api\obj\Debug\netcoreapp2.2\ODataEF.Api.dll
+F:\ODataEF\ODataEF.Api\obj\Debug\netcoreapp2.2\ODataEF.Api.pdb
+F:\ODataEF\ODataEF.Api\bin\Debug\netcoreapp2.2\ODataEF.Data.dll
+F:\ODataEF\ODataEF.Api\bin\Debug\netcoreapp2.2\ODataEF.Data.pdb
+F:\ODataEF\ODataEF.Api\obj\Debug\netcoreapp2.2\ODataEF.Api.csproj.CopyComplete
